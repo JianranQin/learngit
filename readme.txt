@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 merge.
 test1.
 test2
+test3
